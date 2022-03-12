@@ -1,4 +1,4 @@
-Japanese Display  |  English Translation
-:----------------:|:----------------------:
-![](jp/home.png). |![](en/home.png)
+Japanese Display  |   Notes
+------------------|----------------------
+![](jp/home.png)  | Displayed by pressing home
 
