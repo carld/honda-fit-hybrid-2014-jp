@@ -7,8 +7,12 @@ Display  |   Notes
 ![](en/navigation_home_registration.png) | Navigation; Destination setting; Home registration
 ![](en/phone.png) | Phone
 ![](en/call_history.png) | Phone; Call history
-![](en/settings.png) | Settings
 ![](en/information.png) | Information
+![](en/trip_a.png) | Trip A
+![](en/erase_dialog.png) | Trip A erase dialog
+![](en/this_eco_evaluation.png) | eco evaluation
+![](en/information_menu.png) | Information menu
+![](en/settings.png) | Settings
 ![](en/navigation_settings.png) | Settings; Navigation settings
 ![](en/navigation_settings_route_guidance.png) | Settings; Navigation settings; route guidance
 ![](en/navigation_settings_safe_driving.png) | Settings; Navigation settings; safe driving
@@ -26,6 +30,8 @@ Display  |   Notes
 ![](en/system_settings_sound.png) | Settings; System settings; sound
 ![](en/voice_operation_settings.png) | Settings; System settings; voice
 ![](en/clock_settings.png) | Settings; System settings; clock
+![](en/clock_type.png) | Clock type
+![](en/clock_type_wallpaper.png) | Clock type wallpaper
 ![](en/system_other_settings.png) | Settings; System settings; other
 ![](en/helpnet.png) | Helpnet
 
